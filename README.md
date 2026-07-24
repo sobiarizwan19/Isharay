@@ -1,4 +1,4 @@
-# ASL Video Translation System
+# ISHARAY ASL Video Translation System
 
 A FastAPI-based application that translates American Sign Language (ASL) from video files into natural English text using YOLO-based sign detection and Google Gemini AI for interpretation.
 
